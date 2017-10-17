@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Movies!</string>
+    <string-array name="categories">
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+    </string-array>
+
+    <string-array name="ActionOptions">
+        <item>Die Hard</item>
+        <item>The Dark Knight</item>
+        <item>Mad Max: Fury Road</item>
+    </string-array>
+
+    <string-array name="ComedyOptions">
+        <item>Airplane!</item>
+        <item>Anchorman: The Legend of Ron Burgundy</item>
+        <item>Shaun of the Dead</item>
+    </string-array>
+
+    <string-array name="DramaOptions">
+        <item>The Shawshank Redemption</item>
+        <item>12 Angry Men</item>
+        <item>The Godfather</item>
+    </string-array>
+
+    <string-array name="MovieMap">
+        <item>Die Hard</item>
+        <item>The Dark Knight</item>
+        <item>Mad Max: Fury Road</item>
+        <item>Airplane!</item>
+        <item>Anchorman: The Legend of Ron Burgundy</item>
+        <item>Shaun of the Dead</item>
+        <item>The Shawshank Redemption</item>
+        <item>12 Angry Men</item>
+        <item>The Godfather</item>
+    </string-array>
+
+    <string-array name="MoveDetails">
+        <item>John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.</item>
+        <item>When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.</item>
+        <item>A woman rebels against a tyrannical ruler in postapocalyptic Australia in search for her home-land with the help of a group of female prisoners, a psychotic worshipper, and a drifter named Max.</item>
+        <item>A man afraid to fly must ensure that a plane lands safely after the pilots become sick.</item>
+        <item>Ron Burgundy is San Diego\'s top-rated newsman in the male-dominated broadcasting of the 1970s, but that\'s all about to change for Ron and his cronies when an ambitious woman is hired as a new anchor.</item>
+        <item>A man decides to turn his moribund life around by winning back his ex-girlfriend, reconciling his relationship with his mother, and dealing with an entire community that has returned from the dead to eat the living.</item>
+        <item>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</item>
+        <item>A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.</item>
+        <item>The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.</item>
+    </string-array>
+
+</resources>
